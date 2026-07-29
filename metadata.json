@@ -1,0 +1,6 @@
+{
+  "name": "Bishnu Motorcycle Workshop",
+  "description": "Professional motorcycle repair and servicing workshop website for Bishnu Motorcycle Workshop in Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
